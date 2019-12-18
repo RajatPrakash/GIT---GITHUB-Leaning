@@ -7,7 +7,7 @@ import sys
 
 window = tk.Tk()
 window.geometry('400x300')
-window.title('Sign up')
+window.title('Testing from the Git command line')
 window.resizable(False, False)
 connect = mc.connect(host='localhost', db='rajat', user='rajat', password='9711289764')
 if connect.is_connected():
