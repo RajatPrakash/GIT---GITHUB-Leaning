@@ -1,3 +1,9 @@
 #Creating file online, its just a text file that is in web server (git hub) but not in local machine. THis file is created for sum other testing.
+<<<<<<< HEAD
 # inserting using vim editor in local maching then will do the update to Remote (github
 # Testing wothout internet)
+=======
+# inserting using vim editor in local maching then will do the update to Remote (github)
+
+# changes has been done on the file, in its example branch that I have just created
+>>>>>>> 53a53ecd9cc5485d39530042bf556294ca69007b
